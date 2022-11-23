@@ -1,6 +1,6 @@
     function subForm (){
     $.ajax({
-        url:'https://api.apispreadsheets.com/data/eibYCGETvv91dHPJ/',
+        url:'https://api.apispreadsheets.com/data/14DzmjfQTArHO2FmXFQNhxUUM51d95F66g004F39XtqY/',
         type:'post',
         data:$("#myForm").serializeArray(),
         success: function(){
