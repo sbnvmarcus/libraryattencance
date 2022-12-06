@@ -15,3 +15,4 @@ function clearAll() {
 		return;
 	}
 }
+#function
